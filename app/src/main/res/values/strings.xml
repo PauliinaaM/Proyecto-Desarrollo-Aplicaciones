@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MPAZ PRO 2.º</string>
+    <string name="canal_avisos_nombre">Avisos de actividades</string>
+    <string name="canal_avisos_desc">Asignaciones y pruebas habilitadas</string>
+</resources>

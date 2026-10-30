@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- El tema real lo define Compose (ui/theme). Este solo cubre la ventana inicial. -->
+    <style name="Theme.MPazPro" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">#1F4E79</item>
+        <item name="android:windowBackground">@color/fondo</item>
+    </style>
+</resources>

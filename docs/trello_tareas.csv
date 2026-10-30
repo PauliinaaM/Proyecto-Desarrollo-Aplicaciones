@@ -1,0 +1,30 @@
+Lista,Tarjeta,Semana,Responsable,Etiqueta
+Por hacer,"Crear repo GitHub, .gitignore, rama develop, proteger main",Semana 6 · Base del proyecto,Integrante A,IE 2.3.2
+Por hacer,Crear proyecto Compose + version catalog + paquetes MVVM,Semana 6 · Base del proyecto,Integrante A,IE 2.3.1
+Por hacer,Tema Material 3 con tipografía grande y paleta accesible,Semana 6 · Base del proyecto,Integrante B,IE 2.1.1
+Por hacer,"Componentes base: BotonGrande, CampoValidado, BarraSuperior",Semana 6 · Base del proyecto,Integrante B,IE 2.1.2
+Por hacer,Tablero Trello + README inicial,Semana 6 · Base del proyecto,Ambos,IE 2.3.2
+Por hacer,"Entidades Room, convertidores y DAOs",Semana 7 · Datos y validación,Integrante A,IE 2.3.1
+Por hacer,Semilla ficticia de las 4 asignaturas,Semana 7 · Datos y validación,Integrante A,IE 2.3.1
+Por hacer,Validadores en domain/validation + pruebas JUnit,Semana 7 · Datos y validación,Integrante A,IE 2.2.1
+Por hacer,Pantalla de ingreso (perfil + PIN) con validación visual,Semana 7 · Datos y validación,Integrante B,IE 2.1.2
+Por hacer,Navegación por rol y bloqueo de rutas,Semana 7 · Datos y validación,Integrante B,IE 2.1.1
+Por hacer,Repositorio de currículo + historial de cambios,Semana 8 · Flujo UTP y Docente,Integrante A,IE 2.3.1
+Por hacer,Panel UTP y cambio de estados,Semana 8 · Flujo UTP y Docente,Integrante B,IE 2.1.1
+Por hacer,Formulario Unidad/OA validado,Semana 8 · Flujo UTP y Docente,Integrante B,IE 2.1.2
+Por hacer,"Formulario de asignación (fechas, intentos, duplicados)",Semana 8 · Flujo UTP y Docente,Ambos,IE 2.1.2 / 2.2.1
+Por hacer,Notificaciones con permiso en tiempo de ejecución,Semana 8 · Flujo UTP y Docente,Integrante A,IE 2.4.1
+Por hacer,Text-to-Speech (botón Escuchar),Semana 9 · Flujo Estudiante,Integrante A,IE 2.4.1
+Por hacer,Sonido + vibración de retroalimentación,Semana 9 · Flujo Estudiante,Integrante A,IE 2.4.1
+Por hacer,Pantallas Aprender y Practicar,Semana 9 · Flujo Estudiante,Integrante B,IE 2.1.1
+Por hacer,Control de intentos en prueba final + pruebas,Semana 9 · Flujo Estudiante,Integrante A,IE 2.2.1
+Por hacer,Pantalla de prueba final y revisión,Semana 9 · Flujo Estudiante,Integrante B,IE 2.1.1
+Por hacer,Informe por estudiante y resumen por OA,Semana 10 · Informes y animaciones,Integrante A,IE 2.3.1
+Por hacer,Exportar PDF (SAF) y compartir (FileProvider),Semana 10 · Informes y animaciones,Integrante A,IE 2.4.1
+Por hacer,Formulario de observación pedagógica,Semana 10 · Informes y animaciones,Integrante B,IE 2.1.2
+Por hacer,"Animaciones: transiciones, sacudida, celebración, progreso",Semana 10 · Informes y animaciones,Integrante B,IE 2.2.2
+Por hacer,Prueba completa en emulador y dispositivo físico,Semana 11 · Cierre y entrega,Ambos,Entrega
+Por hacer,"Revisión de accesibilidad (tamaños, contraste, TalkBack)",Semana 11 · Cierre y entrega,Integrante B,IE 2.1.1
+Por hacer,README final + capturas,Semana 11 · Cierre y entrega,Ambos,IE 2.3.2
+Por hacer,Subir a AVA grupal y activar AVA individual,Semana 11 · Cierre y entrega,Ambos,Entrega
+Por hacer,**Congelar el repositorio** (no más commits tras la entrega),Semana 11 · Cierre y entrega,Ambos,Entrega

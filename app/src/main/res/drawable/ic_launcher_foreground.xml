@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Ícono original: libro abierto con estrella (diseño propio, sin marcas de terceros) -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M30,40 L52,44 L52,76 L30,72 Z" />
+    <path
+        android:fillColor="#E8F1FA"
+        android:pathData="M56,44 L78,40 L78,72 L56,76 Z" />
+    <path
+        android:fillColor="#FFC93C"
+        android:pathData="M54,22 L57.5,30 L66,30.5 L59.5,36 L61.5,44 L54,39.5 L46.5,44 L48.5,36 L42,30.5 L50.5,30 Z" />
+</vector>
